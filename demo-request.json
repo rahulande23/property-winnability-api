@@ -1,0 +1,26 @@
+{
+  "submissions": [
+    {
+      "submission_id": "SUB-2026-001",
+      "state": "TX",
+      "primary_occupancy": "Warehouse",
+      "occupancy_classification": "General Warehouse",
+      "primary_construction": "Masonry",
+      "frame_construction_percent": 20.0,
+      "total_tiv": 12000000.0,
+      "covered_perils": "Fire/AOP|Wind|Flood",
+      "aop_deductible": 25000.0,
+      "wind_deductible": 100000.0,
+      "flood_deductible": 50000.0,
+      "earthquake_deductible": 100000.0,
+      "scs_deductible": 25000.0,
+      "wind_exposure": 0.35,
+      "flood_exposure": 0.15,
+      "earthquake_exposure": 0.05,
+      "layer_amount": 10000000.0,
+      "attachment_point": 2000000.0,
+      "equipment_breakdown": "Yes",
+      "estimated_premium": 145000.0
+    }
+  ]
+}
